@@ -33,6 +33,28 @@ const projects = [
     image: "https://images.unsplash.com/photo-1598899134739-24c46f58b8c0",
     technologies: ["Power BI", "SQL", "Data Analysis", "Business Intelligence"],
     githubUrl: "https://github.com/asmxtaa/Netflix-Analysis",
+  },
+  {
+    title: "FaceOMeter - Face Recognition Attendance",
+    description: "Built a face recognition-based attendance app using OpenCV, face_recognition, and MySQL for reliable record keeping.",
+    image: "https://images.unsplash.com/photo-1607746882042-944635dfe10e", // placeholder
+    technologies: ["Python", "OpenCV", "MySQL", "Face Recognition"],
+    githubUrl: "https://github.com/asmxtaa/FaceOMeter",
+  },
+  {
+    title: "Weather Dashboard API",
+    description: "A responsive weather app built with Zustand state management and OpenWeatherMap API integration for real-time forecasts.",
+    image: "https://images.unsplash.com/photo-1501973801540-537f08ccae7b", // placeholder
+    technologies: ["React", "TypeScript", "Tailwind CSS", "Zustand"],
+    githubUrl: "https://github.com/asmxtaa/WeatherProjectAPI",
+    live: "https://weather-project-api-git-main-asmita-mandals-projects.vercel.app/"
+  },
+  {
+    title: "YouTube Summarization Platform",
+    description: "Created a tool to summarize YouTube video content using React, TypeScript, Nhost Auth, and AI-powered summarization.",
+    image: "https://images.unsplash.com/photo-1611162617213-3c2b7f9f4a0c", // placeholder
+    technologies: ["Next.js", "React", "TypeScript", "Nhost", "AI"],
+    githubUrl: "https://github.com/asmxtaa/Youtube-summarization",
   }
 ];
 
