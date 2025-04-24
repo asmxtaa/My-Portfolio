@@ -8,18 +8,17 @@ export default function AboutPage() {
       <div className="max-w-3xl mx-auto">
         <h1 className="text-4xl font-bold mb-4">About Me</h1>
         <p className="text-lg mb-4">
-  Hi, I’m <strong>Asmita Mandal</strong>, a final-year Computer Science student at KIIT with a strong passion for combining technology, strategy, and creativity. I enjoy solving real-world problems through backend development, data analysis, and machine learning.
+  Hi! I'm <strong>Asmita Mandal</strong>, a passionate and curious Computer Science undergraduate currently in my 3rd year. I specialize in machine learning, data analytics, and web development, with hands-on experience in building real-time applications that blend AI with impactful user experiences.
 </p>
 <p className="text-lg mb-4">
-  I’ve worked on projects like <strong>BeatsFinds</strong>—a song identification web app, and data visualization dashboards using Power BI. I've also explored <strong>AI-powered video summarization</strong> workflows and backend integrations with platforms like Nhost and n8n.
+  My technical toolkit includes <strong>Python, TensorFlow, NumPy, Pandas, OpenCV, DeepFace</strong>, and <strong>JavaScript</strong>, along with skills in <strong>data mining</strong> and <strong>API integration</strong>. Whether it's developing AI/ML models, creating interactive dashboards, or deploying end-to-end applications, I love turning data-driven ideas into practical, user-friendly solutions.
 </p>
 <p className="text-lg mb-4">
-  Beyond academics, I actively lead and contribute to cultural and technical initiatives as the <strong>Assistant Coordinator</strong> of my department’s dance society and as part of the organizing team for university tech fests. These experiences help me blend <strong>communication, leadership, and innovation</strong>.
+  Alongside coding, I bring a creative spark to everything I do—be it leading university tech events, dancing as a lead in University's society, or collaborating on cross-functional projects. I thrive at the intersection of logic and creativity, always aiming to build technology that not only works but connects.
 </p>
 <p className="text-lg">
-  I'm a quick learner, collaborative by nature, and driven to grow in roles across <strong>software development, QA analysis, and business development</strong>. Let’s build something impactful together!
+  I'm always looking to learn, explore, and contribute to future-forward teams and meaningful projects.
 </p>
-
 
       </div>
     </div>
